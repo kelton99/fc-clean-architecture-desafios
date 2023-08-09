@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1 align="center">🚀 Desafios DDD: Modelagem Tática e Patterns</h1>
+  <h1 align="center">🚀 Desafios Clean Architecture</h1>
   <p>Fork do projeto feito no módulo do curso, para a conclusão dos desafios propostos ao final do módulo</p>
 </div>
 <br />
